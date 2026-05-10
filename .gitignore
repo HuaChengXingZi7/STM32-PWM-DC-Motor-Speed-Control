@@ -1,0 +1,32 @@
+# 编译产生的临时文件和工作目录
+Listings/
+Objects/
+DebugConfig/
+RTE/
+*.o
+*.d
+*.crf
+*.depend
+*.axf
+*.hex
+*.bin
+*.htm
+*.lnp
+*.lst
+*.map
+*.iex
+*.dep
+*.build_log.htm
+*.JLinkLog.txt
+
+# 你自己电脑的 Keil 界面布局和调试配置
+*.uvguix.*
+*.uvoptx
+*.scvd
+
+# 备份文件
+*.bak
+*.Backup
+
+# 其它
+*.ini
